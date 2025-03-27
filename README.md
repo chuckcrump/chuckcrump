@@ -2,4 +2,4 @@
 
 #### Learning
 - .NET
-- Svelte/Typescript
+- Svelte, Vue
