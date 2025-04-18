@@ -2,4 +2,4 @@
 
 #### Learning
 - .NET
-- Svelte, Vue
+- Svelte, Vue, Angular
