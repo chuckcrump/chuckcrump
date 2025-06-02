@@ -1,5 +1,5 @@
 ## I like apps.
 
 #### Learning
-- .NET
-- Svelte, Vue, Angular
+- .NET, go
+- Svelte,Angular
