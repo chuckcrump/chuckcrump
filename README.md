@@ -1,3 +1,3 @@
 #### Learning
-- .NET, go
-- Svelte,Angular
+- kotlin, go
+- Angular
