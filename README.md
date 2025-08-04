@@ -1,3 +1,3 @@
 #### Learning
-- kotlin, go
-- Angular
+- kotlin,c#
+- Angular, react
