@@ -1,3 +1,3 @@
 #### Learning
 - kotlin,c#
-- Angular, react
+- Angular, Svelte
