@@ -1,3 +1,3 @@
 #### Learning
-- c#
+- c#, rust
 - Angular, Svelte
